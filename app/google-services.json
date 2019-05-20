@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "100775744575",
+    "firebase_url": "https://ieee-2bb43.firebaseio.com",
+    "project_id": "ieee-2bb43",
+    "storage_bucket": "ieee-2bb43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100775744575:android:3e32b25c400a813b",
+        "android_client_info": {
+          "package_name": "com.example.ieee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100775744575-d0k1cdqmqghoa96do2rvs6abvqvnqfrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB2YuxvGjisYIVsCMfzbCl6khE15rvGio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100775744575-d0k1cdqmqghoa96do2rvs6abvqvnqfrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
